@@ -1,0 +1,40 @@
+.color-0 {
+    background-color: #333333;
+}
+
+body {
+    background-color: #333333;
+    overflow: hidden;
+}
+
+#overlap0 {
+    position: absolute;
+    z-index: 2;
+
+}
+#canvas {
+    position: absolute;
+    background-color: #474747;
+}
+#overlap1 {
+    position: absolute;
+    z-index: 2;
+
+    
+}
+#overlap2 {
+    position: absolute;
+    z-index: 2;
+
+    
+}
+#overlap3 {
+    position: absolute;
+    z-index: 2;
+
+    
+}
+svg {
+    position: absolute;
+    z-index: 1;
+}
